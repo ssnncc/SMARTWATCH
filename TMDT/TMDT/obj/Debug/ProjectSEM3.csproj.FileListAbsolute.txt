@@ -1,0 +1,163 @@
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\csc.exe
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\System.Collections.Immutable.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\System.Reflection.Metadata.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\vbc.exe
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\VBCSCompiler.exe
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\roslyn\VBCSCompiler.exe.config
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\ProjectSEM3.dll.config
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\ProjectSEM3.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\ProjectSEM3.pdb
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Antlr3.Runtime.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Microsoft.Web.Infrastructure.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Newtonsoft.Json.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.Helpers.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.Mvc.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.Optimization.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.Razor.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Deployment.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Razor.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\WebGrease.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.Helpers.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.Mvc.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.Optimization.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.Razor.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Deployment.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Razor.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Antlr3.Runtime.pdb
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Newtonsoft.Json.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.pdb
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\ClosedXML.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\DocumentFormat.OpenXml.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\ClosedXML.pdb
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\ClosedXML.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\EntityFramework.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\EntityFramework.SqlServer.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\EntityFramework.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\EntityFramework.SqlServer.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\CKFinder.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\CKFinder.pdb
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\PagedList.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\PagedList.Mvc.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\PagedList.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\PagedList.Mvc.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Microsoft.Owin.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Owin.dll
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\bin\Microsoft.Owin.xml
+D:\SEM 3\ProjectSEM3\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.csprojResolveAssemblyReference.cache
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.pdb
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\ProjectSEM3.dll.config
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\ProjectSEM3.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\ProjectSEM3.pdb
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Antlr3.Runtime.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\CKFinder.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\ClosedXML.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\DocumentFormat.OpenXml.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\EntityFramework.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\EntityFramework.SqlServer.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Microsoft.Owin.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Microsoft.Web.Infrastructure.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Newtonsoft.Json.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Owin.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\PagedList.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\PagedList.Mvc.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.Helpers.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.Mvc.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.Optimization.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.Razor.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Deployment.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Razor.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\WebGrease.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\CKFinder.pdb
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\ClosedXML.pdb
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\ClosedXML.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\EntityFramework.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\EntityFramework.SqlServer.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Microsoft.Owin.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\PagedList.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\PagedList.Mvc.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.Helpers.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.Mvc.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.Optimization.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.Razor.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Deployment.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Razor.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Antlr3.Runtime.pdb
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Newtonsoft.Json.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Facebook.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Facebook.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\BotDetect.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\bin\BotDetect.Web.Mvc.dll
+D:\SEM 3\Shop\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.csprojResolveAssemblyReference.cache
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\ProjectSEM3.dll.config
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\ProjectSEM3.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\ProjectSEM3.pdb
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Antlr3.Runtime.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\BotDetect.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\BotDetect.Web.Mvc.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\CKFinder.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\ClosedXML.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\DocumentFormat.OpenXml.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\EntityFramework.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\EntityFramework.SqlServer.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Facebook.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Microsoft.AspNet.Identity.Core.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Microsoft.Owin.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Microsoft.Web.Infrastructure.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Newtonsoft.Json.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Owin.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\PagedList.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\PagedList.Mvc.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.Helpers.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.Mvc.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.Optimization.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.Razor.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Deployment.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Razor.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\WebGrease.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\CKFinder.pdb
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\ClosedXML.pdb
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\ClosedXML.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\EntityFramework.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\EntityFramework.SqlServer.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Facebook.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Microsoft.AspNet.Identity.Core.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Microsoft.Owin.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\PagedList.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\PagedList.Mvc.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.Helpers.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.Mvc.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.Optimization.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.Razor.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Deployment.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\System.Web.WebPages.Razor.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Antlr3.Runtime.pdb
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\bin\Newtonsoft.Json.xml
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.csprojAssemblyReference.cache
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.csproj.CoreCompileInputs.cache
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.csproj.CopyComplete
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.dll
+E:\THUC_TAP\ProjectSEM3\ProjectSEM3\obj\Debug\ProjectSEM3.pdb

@@ -1,0 +1,167 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Slide{
+
+    <div class="tp-banner-container">
+        <div class="tp-banner">
+            <ul>
+                @foreach (var item in ViewBag.slide)
+                {
+                    <li data-transition="3dcurtain-vertical" data-slotamount="7" data-masterspeed="500" data-thumb="@item.Image" >
+                    <!-- MAIN IMAGE -->
+                    <img src="~/Assets/Client/img/dummy.png" alt="laptopmockup_sliderdy" data-lazyload="@item.Image" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
+                    <!-- LAYERS -->
+
+                  
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption text3 skewfromrightshort fadeout"
+                         data-x="10"
+                         data-y="440"
+                         data-speed="1000"
+                         data-start="1500"
+                         data-easing="Power3.easeInOut"
+                         data-splitin="none"
+                         data-splitout="none"
+                         data-elementdelay="0.1"
+                         data-endelementdelay="0.1"
+                         data-endspeed="300"
+                         style="z-index: 5; max-width: auto; font-family: 'Lato', sans-serif;max-height: auto; white-space: nowrap;">@*@item.Description*@</div>
+                </li>
+                }
+                <!-- SLIDE -->
+                
+                <!-- SLIDE -->
+
+            </ul>
+            <!--          <div class="tp-bannertimer"></div>
+            -->
+        </div>
+    </div>
+}
+
+@* load slide chỉ cho mổ trang index *@
+
+    <section id="content">
+
+
+        <div class="line"></div>
+
+        <div class="container">
+            <a href="/Product/"><h3 class="padding" style="text-align:center">Sản phẩm mới </h3></a>
+            <div class="carousel es-carousel-wrapper style0">
+                <div class="es-carousel">
+                    <div class="row">
+                      
+
+                        @{Html.RenderAction("NewProduct", "Product");}
+
+                     
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="line"></div>
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <a href="/Product/"><h3 class="padding" style="text-align:center">Thương hiệu</h3></a>
+                        <div class="brands_block" id="brands0">
+                            <ul class="jcarousel-skin-brands">
+                                <li><a href="http://localhost:55229/dong-ho/casio-1"><img style="height:100px" src="~/Assets/Client/img/myproduct/2.jpg" alt="3docean" title="3docean" /></a></li>
+                                <li><a href="http://localhost:55229/dong-ho/citizent-2"><img style="height:100px" src="~/Assets/Client/img/myproduct/3.jpg" alt="Graphicriver" title="Graphicriver" /></a></li>
+                                <li><a href="http://localhost:55229/dong-ho/tissot-4"><img style="height:100px" src="~/Assets/Client/img/myproduct/4.jpg" alt="Videohive" title="Videohive" /></a></li>
+                                <li><a href="http://localhost:55229/dong-ho/seiko-3"><img style="height:100px" src="~/Assets/Client/img/myproduct/banner-seiko.jpg" alt="Audiojungle" title="Audiojungle" /></a></li>
+                                <li><a href="http://localhost:55229/dong-ho/casio-1"><img style="height:100px" src="~/Assets/Client/img/myproduct/bannercasio1.jpg" alt="Activeden" title="Activeden" /></a></li>
+                                <li><a href="http://localhost:55229/dong-ho/citizent-2"><img style="height:100px" src="~/Assets/Client/img/myproduct/2.jpg" alt="3docean" title="3docean" /></a></li>
+                                <li><a href="http://localhost:55229/dong-ho/tissot-4"><img style="height:100px" src="~/Assets/Client/img/myproduct/3.jpg" alt="Graphicriver" title="Graphicriver" /></a></li>
+                                <li><a href="http://localhost:55229/dong-ho/tissot-4"><img style="height:100px" src="~/Assets/Client/img/myproduct/4.jpg" alt="Videohive" title="Videohive" /></a></li>
+                                <li><a href="http://localhost:55229/dong-ho/seiko-3"><img style="height:100px" src="~/Assets/Client/img/myproduct/banner-seiko.jpg" alt="Audiojungle" title="Audiojungle" /></a></li>
+                                <li><a href="http://localhost:55229/dong-ho/casio-1"><img style="height:100px" src="~/Assets/Client/img/myproduct/bannercasio1.jpg" alt="Activeden" title="Activeden" /></a></li>
+                            </ul>
+                        </div>
+</div>
+            </div>
+        </div>
+
+        <div class="line"></div>
+        <div class="container">
+            <a href="/Product/"><h3 class="padding" style="text-align:center">Sản phẩm giảm giá </h3></a>
+            <div class="carousel es-carousel-wrapper style0">
+                <div class="es-carousel">
+                    <div class="row">
+
+                        @{Html.RenderAction("SaleProduct", "Product");}
+                         
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="fullwidth-block">
+            <div class="parallax-block parallax">
+                <div class="container">
+                    <div class="row">
+                        <div class="span8 offset2">
+                            <h1 class="aligncenter">Giới thiệu</h1>
+                            <div class="carousel-testimonials">
+                                <div class="quotes">&#8220;</div>
+                                <div class="flexslider" style="background: #af4448">
+                                    <ul class="slides">
+                                        <li>
+                                            <p>redWatch - Đại lý đồng hồ đeo tay chính hãng cao cấp. Cung cấp các dòng đồng hồ Nhật Bản, Thụy Sĩ cao cấp với mức giá ưu đãi - Bảo hình chĩnh hãng chuẩn Thụy Sĩ 5 năm - Cam kết Fake hoàn tiền 10X lần giá trị</p>
+                                            <p><span>Chủ shop: Vũ Vũ</span></p>
+                                        </li>
+                                        <li>
+                                            <p>Đội ngũ nhân viên nhiệt tình chu đáo và đầy kinh nghiệm của chúng tôi luôn đưa được ra cho khách hàng những thông tin có giá trị và giúp khách hàng lựa chọn được những sản phẩm phù hợp nhất.</p>
+                                            <p><span>Smart Watch</span></p>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="line"></div>
+        <div class="custom_blocks animate-delay-outer">
+            <div class="container">
+                <div class="pull-left">
+                    <div class="wrapper_w">
+                        <div class="box animate-delay scale">
+                            <div class="inside">
+                                <div class="btn_outer"><a href="#" class="btn squared icon-truck-2 icon-4x color1"></a></div>
+                                <a href="#"><span class="text" style="font-size:12px">MIỄN PHÍ VẬN CHUYỂN</span></a>
+                            </div>
+                        </div>
+                        <div class="box animate-delay scale">
+                            <div class="inside">
+                                <div class="btn_outer"><a href="#" class="btn squared icon-money-3 icon-4x color2"></a></div>
+                                <a href="#"><span class="text" style="font-size:12px">THANH TOÁN KHI GIAO HÀNG</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pull-left">
+                    <div class="wrapper_w">
+                        <div class="box animate-delay scale">
+                            <div class="inside">
+                                <div class="btn_outer"><a href="#" class="btn squared  icon-round8 icon-4x color3"></a></div>
+                                <a href="#"><span class="text" style="font-size:12px">HOÀN LẠI TRONG 30 NGÀY</span></a>
+                            </div>
+                        </div>
+                        <div class="box animate-delay scale ">
+                            <div class="inside">
+                                <div class="btn_outer"><a href="#" class="btn squared icon-airplane-4 icon-4x color4"></a></div>
+                                <a href="#"><span class="text" style="font-size:12px">Vận chuyển thế giới</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
